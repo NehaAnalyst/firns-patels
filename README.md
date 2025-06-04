@@ -23,3 +23,4 @@ Problem
  different occasions.
  10. Product Popularity by Occasion: Identify which products are most popular during
  specific occasions.
+![firns patelsdashboard](https://github.com/user-attachments/assets/3e74d11e-e791-447e-873c-9e1a79b80eda)
